@@ -22,9 +22,51 @@
             "alt": "The Pyramids of Giza"
         }, 
         "dates": {
+            "startDate": "02/07/2003",
+            "endDate": "16/07/2003"
+        },
+        "description": "Cairo is the capital of Egypt, home to 10 million people. Cairo is associated with Ancient Egypt, as the Giza pyramid complex and the ancient cities of Memphis and Heliopolis are located in its geographical area."
+    }, 
+    {
+        "key": "3", 
+        "country": "Singapore", 
+        "location": "Singapore",
+        "image": {
+            "file": "singapore.jpg", 
+            "alt": "Solar powered super-trees in Singapore"
+        }, 
+        "dates": {
             "startDate": "10/10/2020",
             "endDate": "24/10/2020"
         },
-        "description": "Cairo is the capital of Egypt, home to 10 million people. Cairo is associated with Ancient Egypt, as the Giza pyramid complex and the ancient cities of Memphis and Heliopolis are located in its geographical area."
+        "description": "Singapore is a sunny, tropical island in South-east Asia, off the southern tip of the Malay Peninsula. The city-state is 710 square kilometres and inhabited by five million people from four major communities; Chinese (majority), Malay, Indian and Eurasian."
+    }, 
+    {
+        "key": "4", 
+        "country": "Italy", 
+        "location": "Florence",
+        "image": {
+            "file": "florence.jpg", 
+            "alt": "The Duomo in Florence"
+        }, 
+        "dates": {
+            "startDate": "12/03/2013",
+            "endDate": "17/03/2013"
+        },
+        "description": "Florence is a city rich in cultural heritage, its historic centre was named a Unesco Site in 1982 and it is known worldwide as a tourist destination; it is a unique social and urban achievement which includes the greatest concentration in the world of museums, churches and artworks."
+    }, 
+    {
+        "key": "5", 
+        "country": "Italy", 
+        "location": "Rome",
+        "image": {
+            "file": "rome.jpg", 
+            "alt": "The Vatican"
+        }, 
+        "dates": {
+            "startDate": "10/03/2010",
+            "endDate": "17/03/2010"
+        },
+        "description": "Rome, the 'Eternal City', is the capital and largest city of Italy and of the Lazio region. It's the famed city of the Roman Empire, the Seven Hills, La Dolce Vita, the Vatican City and Three Coins in the Fountain."
     }
 ]
