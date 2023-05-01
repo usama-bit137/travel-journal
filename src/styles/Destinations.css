@@ -1,0 +1,40 @@
+.dest-container {
+    
+    display: flex;
+    padding: 30px;
+    max-width: 750px;
+    border-bottom: 1px solid #9ABFDA; 
+    margin: auto;
+}
+
+
+.image-container {
+    display: flex; 
+    flex-direction: column;    
+    justify-content: center;
+}
+
+.image {
+    --max-height: 300px;
+    max-height: var(--max-height);
+    border-radius: 10px;
+}
+
+.dest-info {
+    padding: 0px 30px;
+}
+
+.dest-country {
+    display: flex;
+    align-items: center;
+}
+
+.dest-location {
+    padding: 0; 
+    margin: 0; 
+}
+
+.dest-duration {
+    font-weight: bolder;
+}
+
