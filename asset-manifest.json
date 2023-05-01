@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/travel-journal/static/css/main.92f940cc.css",
+    "main.js": "/travel-journal/static/js/main.f74cd7e0.js",
+    "static/media/Mukta-Regular.ttf": "/travel-journal/static/media/Mukta-Regular.8bfc1d2f11f1d87c38b0.ttf",
+    "static/media/airplane.png": "/travel-journal/static/media/airplane.667005b6ad603596e6a5.png",
+    "static/media/ping.png": "/travel-journal/static/media/ping.df8b7e62a5b3914c2095.png",
+    "index.html": "/travel-journal/index.html",
+    "main.92f940cc.css.map": "/travel-journal/static/css/main.92f940cc.css.map",
+    "main.f74cd7e0.js.map": "/travel-journal/static/js/main.f74cd7e0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.92f940cc.css",
+    "static/js/main.f74cd7e0.js"
+  ]
+}
