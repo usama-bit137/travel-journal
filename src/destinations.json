@@ -1,0 +1,30 @@
+[
+    {
+        "key": "1", 
+        "country": "Malaysia", 
+        "location": "Kuala Lumpur",
+        "image": {
+            "file": "petronas.jpg", 
+            "alt": "petronas towers"
+        }, 
+        "dates": {
+            "startDate": "10/10/2020",
+            "endDate": "24/10/2020"
+        },
+        "description": "Kuala Lumpur is a federal territory and the ceremonial, legislative and judicial capital city of Malaysia. It is one of the fastest growing cities in Asia. The city serves as the cultural, financial, and economic centre of Malaysia."
+    },
+    {
+        "key": "2", 
+        "country": "Egypt", 
+        "location": "Cairo",
+        "image": {
+            "file": "cairo.jpg", 
+            "alt": "The Pyramids of Giza"
+        }, 
+        "dates": {
+            "startDate": "10/10/2020",
+            "endDate": "24/10/2020"
+        },
+        "description": "Cairo is the capital of Egypt, home to 10 million people. Cairo is associated with Ancient Egypt, as the Giza pyramid complex and the ancient cities of Memphis and Heliopolis are located in its geographical area."
+    }
+]
